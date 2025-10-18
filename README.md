@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @insomniac1712
+- 👋 Hi, I’m @insomniac1712, Django Developer
 - 👀 I’m interested in ... Astronomy, Psychology, Computer Science, MMA, Travelling and coooking
-- 🌱 I’m currently learning ...Full stack web development and DSA
+- 🌱 I’m currently learning ...Machine Learninig and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...devarshimani17@gmail.com
 - 😄 Pronouns: ...He/Him
