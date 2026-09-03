@@ -8,22 +8,26 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/devarshi-mani-tripathi-28985020b/"><img src="https://img.shields.io/badge/LINKEDIN-B8963E?style=flat-square&logo=linkedin&logoColor=0d1117" /></a>
-<a href="mailto:devarshimani17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-B8963E?style=flat-square&logo=gmail&logoColor=0d1117" /></a>
-<a href="https://github.com/insomniac1712"><img src="https://img.shields.io/badge/GITHUB-B8963E?style=flat-square&logo=github&logoColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/devarshi-mani-tripathi-28985020b/"><img src="https://img.shields.io/badge/LINKEDIN-C3B1E1?style=flat-square&logo=linkedin&logoColor=0d1117" /></a>
+<a href="mailto:devarshimani17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5E6A8?style=flat-square&logo=gmail&logoColor=0d1117" /></a>
+<a href="https://github.com/insomniac1712"><img src="https://img.shields.io/badge/GITHUB-EAEAEA?style=flat-square&logo=github&logoColor=0d1117" /></a>
 
 </div>
 
 <br>
 
+### A B O U T
+
+I'm a backend developer who spends more time on production-shaped problems — tenant isolation, role-based access, automated test suites, CI — than on portfolio-shaped demos. I'm a CSE undergrad at AKGEC (2023–2027), and lately most of my reading and side-project time is going into agentic AI and LLM-driven systems: LangChain, LangGraph, and RAG. I contribute to open source when the itch hits (first merged PR landed in Wagtail CMS), and represented my team at Smart India Hackathon 2025.
+
+<br>
+
 ### S T A C K
 
-| | |
-|---|---|
-| **Backend** | Django · DRF · FastAPI · REST APIs · WebSockets · JWT Auth |
-| **AI Engineering** *(in progress)* | Agentic AI · LangChain · LangGraph · RAG |
-| **Data** | PostgreSQL · MySQL · MongoDB · QdrantDB |
-| **Infra** | Docker · Render · Neon · GitHub Actions |
+- **Backend** — Django · DRF · FastAPI · REST APIs · WebSockets · JWT Auth
+- **AI Engineering** *(in progress)* — Agentic AI · LangChain · LangGraph · RAG
+- **Data** — PostgreSQL · MySQL · MongoDB · QdrantDB
+- **Infra** — Docker · Render · Neon · GitHub Actions
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,docker,git,github&theme=dark" height="42"/>
@@ -33,18 +37,24 @@
 
 ### S E L E C T E D&nbsp;&nbsp;W O R K
 
-| # | Project | Stack | Notes |
-|---|---|---|---|
-| 01 | **Ethereal PM** | Django · DRF · HTMX · PostgreSQL · Docker | Multi-tenant PM platform — tenant-isolated RBAC, dual JWT/session auth, invitation workflows, ~76 tests, CI. [Live](https://ethereal-pm.onrender.com) · [Code](#) |
-| 02 | **Real-Time Face Detection** | FastAPI · WebSockets · MediaPipe · PostgreSQL | Async video streaming backend — bidirectional frame pipeline, persistent ROI metadata. [Code](#) |
-| 03 | **Expense Tracker** | Django · DRF · PostgreSQL | Multi-user finance platform — ORM aggregations, category budgeting, service-layer logic. [Code](#) |
+**01 — Ethereal PM**
+*Django · DRF · HTMX · PostgreSQL · Docker*
+Multi-tenant project management platform — tenant-isolated RBAC, dual JWT/session auth, invitation workflows, ~76 automated tests, CI. [Live](https://ethereal-pm.onrender.com) · [Code](#)
+
+**02 — Real-Time Face Detection**
+*FastAPI · WebSockets · MediaPipe · PostgreSQL*
+Async video streaming backend — bidirectional frame pipeline, persistent ROI metadata. [Code](https://github.com/insomniac1712/FastAPI-Face-Detector)
+
+**03 — Expense Tracker**
+*Django · DRF · PostgreSQL*
+Multi-user finance platform — ORM aggregations, category budgeting, service-layer logic. [Code](https://github.com/insomniac1712/Expense-Tracker)
 
 <br>
 
 ### C U R R E N T L Y
 
 - Learning **Agentic AI** and **DSA**
-- Open source: merged PR to **Wagtail CMS** — fixed a ChoiceBlock value-type preservation bug ([view](#))
+- Open source: merged PR to **Wagtail CMS** — fixed a ChoiceBlock value-type preservation bug ([view](https://github.com/wagtail/wagtail/pull/13658))
 
 <br>
 
