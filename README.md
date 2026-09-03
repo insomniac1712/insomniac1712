@@ -1,202 +1,67 @@
-<!--
-  DEVARSHI MANI TRIPATHI
-  GitHub Profile README
--->
-
 <div align="center">
 
 # DEVARSHI MANI TRIPATHI
 
-`BACKEND DEVELOPER` · `AI ENGINEER`
+**`BACKEND DEVELOPER`** · **`AI ENGINEER`**
+
+<sub>Building scalable APIs — moving toward agentic, LLM-driven systems</sub>
 
 <br>
 
-<a href="https://www.linkedin.com/in/devarshi-mani-tripathi-28985020b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:devarshimani17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/insomniac1712">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=760&lines=BUILDING+BACKEND+SYSTEMS.;EXPLORING+AGENTIC+AI.;TURNING+IDEAS+INTO+WORKING+SOFTWARE." />
+<a href="https://www.linkedin.com/in/devarshi-mani-tripathi-28985020b/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=eaeaea" /></a>
+<a href="mailto:devarshimani17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=eaeaea" /></a>
+<a href="https://github.com/insomniac1712"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=eaeaea" /></a>
 
 </div>
 
----
-
-## / PROFILE
-
-```text
-BACKEND
-    Django
-    Django REST Framework
-    FastAPI
-    REST APIs
-    WebSockets
-    Authentication & Authorization
-    API Design
-
-AI ENGINEERING
-    Agentic AI
-    Generative AI
-    LLM Applications
-    LangChain
-    LangGraph
-    RAG
-
-DATA
-    PostgreSQL
-    MySQL
-    MongoDB
-    QdrantDB
-    SQL
-    NumPy · Pandas · Matplotlib
-
-INFRASTRUCTURE
-    Docker
-    Render
-    Neon
-    GitHub Actions
-```
-
-I build **backend systems and AI-powered applications**, with a particular interest in scalable APIs, intelligent workflows, data-driven services, and the systems that connect them.
+<br>
 
 ---
 
-## / SELECTED WORK
+### `/ STACK`
 
-### 01 — ANALYTICO
+<div align="center">
 
-**Time-series analytics API**
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,docker,git,github&theme=dark" height="42"/>
 
-`FastAPI` `SQLModel` `PostgreSQL` `TimescaleDB` `Docker`
+</div>
 
-A backend analytics service for collecting web traffic events and generating time-bucketed analytics.
-
-[Repository →](https://github.com/insomniac1712/analyticsAPI)
+**Backend** — Django · DRF · FastAPI · REST APIs · WebSockets · JWT Auth
+**AI Engineering** *(currently building toward)* — Agentic AI · LangChain · LangGraph · RAG
+**Data** — PostgreSQL · MySQL · MongoDB · QdrantDB
+**Infra** — Docker · Render · Neon · GitHub Actions
 
 ---
 
-### 02 — ETHEREAL PM
+### `/ SELECTED WORK`
 
-**Multi-tenant project management platform**
-
+**01 — Ethereal PM**
 `Django` `DRF` `HTMX` `PostgreSQL` `Docker`
+Multi-tenant project management platform — tenant-isolated RBAC, dual JWT/session auth, invitation workflows, ~76 automated tests, CI.
+[Live](https://ethereal-pm.onrender.com) · [Code](#)
 
-A production-oriented project management platform with tenant isolation, role-based access control, dual authentication, invitation workflows, automated testing and CI.
+**02 — Real-Time Face Detection**
+`FastAPI` `WebSockets` `MediaPipe` `PostgreSQL`
+Async video streaming backend — bidirectional frame pipeline with persistent ROI metadata.
+[Code](#)
 
-[Repository →](https://github.com/insomniac1712/Ethereal-PM)
-
----
-
-### 03 — REAL-TIME FACE DETECTION
-
-**Computer vision streaming backend**
-
-`FastAPI` `WebSockets` `MediaPipe` `PostgreSQL` `Docker`
-
-A real-time video processing backend with asynchronous frame handling, bidirectional streaming and persistent ROI metadata.
-
-[Repository →](https://github.com/insomniac1712/FastAPI-Face-Detector)
-
----
-
-### 04 — EXPENSE TRACKER
-
-**Analytics-driven finance backend**
-
+**03 — Expense Tracker**
 `Django` `DRF` `PostgreSQL`
-
-A multi-user expense platform with secure ownership controls, budgeting, ORM-powered analytics and service-layer business logic.
-
-[Repository →](https://github.com/insomniac1712/Expense-Tracker)
+Multi-user finance platform — ORM aggregations, category budgeting, service-layer business logic.
+[Code](#)
 
 ---
 
-## / CURRENTLY
+### `/ CURRENTLY`
 
-```text
-LEARNING        Agentic AI
-                DSA
-
-EXPLORING       Generative AI
-                LangChain
-                LangGraph
-                RAG
-
-BUILDING        Backend systems
-                AI-powered applications
-
-INTERESTED IN   System Design
-                Open Source
-                Intelligent Automation
-```
+Learning `Agentic AI` `DSA` — open source contributions via **Wagtail CMS** (merged PR fixing a ChoiceBlock value-type preservation bug → [view](#))
 
 ---
-
-## / STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,fastapi,postgres,mysql,mongodb,redis,docker,github,linux" />
+**EMAIL** devarshimani17@gmail.com &nbsp;·&nbsp; **LINKEDIN** [in/devarshi-mani-tripathi](https://www.linkedin.com/in/devarshi-mani-tripathi-28985020b/) &nbsp;·&nbsp; **GITHUB** [@insomniac1712](https://github.com/insomniac1712)
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,vscode,pytorch,tensorflow,opencv" />
-
-</div>
-
----
-
-## / GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=insomniac1712&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=666666&icon_color=111111&rank_icon=github" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=insomniac1712&hide_border=true&background=00000000&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=666666&currStreakNum=111111&sideNums=111111&dates=888888" height="165"/>
-
-</div>
-
----
-
-## / CONTRIBUTION MAP
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=insomniac1712&bg_color=00000000&color=555555&line=111111&point=111111&area=true&hide_border=true" width="96%"/>
-
-</div>
-
----
-
-## / OPEN SOURCE
-
-**Wagtail CMS**
-
-Contributed to the Wagtail open-source project by fixing a `ChoiceBlock` value type preservation issue.
-
-[View GitHub →](https://github.com/insomniac1712)
-
----
-
-## / CONTACT
-
-```text
-EMAIL       devarshimani17@gmail.com
-LINKEDIN    linkedin.com/in/devarshi-mani-tripathi-28985020b
-GITHUB      github.com/insomniac1712
-```
-
-<div align="center">
-
-### BUILD · BREAK · UNDERSTAND · REBUILD
+`BUILD · BREAK · UNDERSTAND · REBUILD`
 
 </div>
