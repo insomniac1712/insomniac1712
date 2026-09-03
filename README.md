@@ -45,9 +45,9 @@ Multi-tenant project management platform — tenant-isolated RBAC, dual JWT/sess
 *FastAPI · WebSockets · MediaPipe · PostgreSQL*
 Async video streaming backend — bidirectional frame pipeline, persistent ROI metadata. [Code](https://github.com/insomniac1712/FastAPI-Face-Detector)
 
-**03 — Expense Tracker**
-*Django · DRF · PostgreSQL*
-Multi-user finance platform — ORM aggregations, category budgeting, service-layer logic. [Code](https://github.com/insomniac1712/Expense-Tracker)
+**03 — Analytico**
+*FastAPI · Docker · TimescaleDB*
+A FastAPI based analytics API using TimescaleDB for hypertable based data storage and analysis.. [Code](https://github.com/insomniac1712/analyticsAPI)
 
 <br>
 
